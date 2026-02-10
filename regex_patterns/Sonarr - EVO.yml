@@ -1,0 +1,6 @@
+name: Sonarr - EVO
+pattern: ^(EVO)$
+description: ''
+tags:
+- Sonarr
+tests: []

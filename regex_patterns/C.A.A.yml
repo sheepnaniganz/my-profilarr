@@ -1,0 +1,7 @@
+name: C.A.A
+pattern: ^(C\.A\.A)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

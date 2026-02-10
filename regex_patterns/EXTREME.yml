@@ -1,0 +1,7 @@
+name: EXTREME
+pattern: ^(EXTREME)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

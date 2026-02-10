@@ -1,0 +1,7 @@
+name: (TGx)
+pattern: \[TGx\]
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

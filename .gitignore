@@ -1,0 +1,7 @@
+/.obsidian
+
+__pycache__
+TRaSH-Guides
+
+.mypy_cache
+.pytest_cache

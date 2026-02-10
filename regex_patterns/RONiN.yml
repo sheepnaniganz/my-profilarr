@@ -1,0 +1,7 @@
+name: RONiN
+pattern: \b(RONiN)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

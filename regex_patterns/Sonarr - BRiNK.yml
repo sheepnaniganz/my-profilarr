@@ -1,0 +1,6 @@
+name: Sonarr - BRiNK
+pattern: ^(BRiNK)$
+description: ''
+tags:
+- Sonarr
+tests: []

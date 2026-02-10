@@ -1,0 +1,6 @@
+name: Radarr - BHDStudio
+pattern: ^(BHDStudio)$
+description: ''
+tags:
+- Radarr
+tests: []

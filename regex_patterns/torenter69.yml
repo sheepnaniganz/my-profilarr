@@ -1,0 +1,7 @@
+name: torenter69
+pattern: \b(torenter69)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

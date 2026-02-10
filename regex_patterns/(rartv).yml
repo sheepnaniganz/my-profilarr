@@ -1,0 +1,7 @@
+name: (rartv)
+pattern: \[rartv\]
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

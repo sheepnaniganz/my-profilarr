@@ -1,0 +1,6 @@
+name: Radarr - Pathé
+pattern: \b(Pathe)\b
+description: ''
+tags:
+- Radarr
+tests: []

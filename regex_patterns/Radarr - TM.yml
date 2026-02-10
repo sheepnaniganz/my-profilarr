@@ -1,0 +1,6 @@
+name: Radarr - TM
+pattern: ^(TM\b)$
+description: ''
+tags:
+- Radarr
+tests: []

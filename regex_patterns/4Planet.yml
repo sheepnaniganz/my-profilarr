@@ -1,0 +1,7 @@
+name: 4Planet
+pattern: (?<=^|[\s.-])4Planet\b
+description: ''
+tags:
+- Release Group
+- Obfuscated
+tests: []

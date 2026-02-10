@@ -1,0 +1,6 @@
+name: Radarr - BBQ
+pattern: ^(BBQ)$
+description: ''
+tags:
+- Radarr
+tests: []

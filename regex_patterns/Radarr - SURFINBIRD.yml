@@ -1,0 +1,6 @@
+name: Radarr - SURFINBIRD
+pattern: ^(SURFINBIRD)$
+description: ''
+tags:
+- Radarr
+tests: []

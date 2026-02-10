@@ -1,0 +1,7 @@
+name: TURG
+pattern: ^(TURG)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

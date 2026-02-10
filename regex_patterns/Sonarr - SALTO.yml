@@ -1,0 +1,6 @@
+name: Sonarr - SALTO
+pattern: \b(SALTO)\b
+description: ''
+tags:
+- Sonarr
+tests: []

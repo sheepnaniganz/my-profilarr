@@ -1,0 +1,7 @@
+name: Chamele0n
+pattern: -Chamele0n\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

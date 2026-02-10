@@ -1,0 +1,6 @@
+name: Radarr - TIKO
+pattern: ^(TIKO)$
+description: ''
+tags:
+- Radarr
+tests: []

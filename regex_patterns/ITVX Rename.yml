@@ -1,0 +1,7 @@
+name: ITVX Rename
+pattern: \[(ITVX)\b|\b(ITVX)\]
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

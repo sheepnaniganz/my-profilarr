@@ -1,0 +1,6 @@
+name: Sonarr - KHN
+pattern: ^(KHN)$
+description: ''
+tags:
+- Sonarr
+tests: []

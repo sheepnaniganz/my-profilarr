@@ -1,0 +1,7 @@
+name: Nagutos
+pattern: \b(Nagutos)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

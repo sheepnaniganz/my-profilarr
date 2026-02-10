@@ -1,0 +1,7 @@
+name: AsRequested
+pattern: -AsRequested\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

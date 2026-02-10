@@ -1,0 +1,7 @@
+name: Yameii
+pattern: \[Yameii\]|-Yameii\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

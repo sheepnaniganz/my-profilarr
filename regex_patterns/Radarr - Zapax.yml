@@ -1,0 +1,6 @@
+name: Radarr - Zapax
+pattern: ^(Zapax)$
+description: ''
+tags:
+- Radarr
+tests: []

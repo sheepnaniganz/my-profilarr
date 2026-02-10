@@ -1,0 +1,7 @@
+name: FrIeNdS
+pattern: ^(FrIeNdS)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

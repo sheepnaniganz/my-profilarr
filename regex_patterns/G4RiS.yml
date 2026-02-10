@@ -1,0 +1,7 @@
+name: G4RiS
+pattern: ^(G4RiS)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

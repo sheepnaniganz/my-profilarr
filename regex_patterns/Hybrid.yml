@@ -1,0 +1,7 @@
+name: Hybrid
+pattern: \bhybrid(\b|\d)
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

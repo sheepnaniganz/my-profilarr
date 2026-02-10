@@ -1,0 +1,6 @@
+name: Radarr - TOA
+pattern: ^(TOA)$
+description: ''
+tags:
+- Radarr
+tests: []

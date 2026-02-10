@@ -1,0 +1,6 @@
+name: Radarr - Criterion RlsGrp
+pattern: ^(Criterion)$
+description: ''
+tags:
+- Radarr
+tests: []

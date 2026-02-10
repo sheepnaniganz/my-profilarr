@@ -1,0 +1,7 @@
+name: JFF
+pattern: ^(JFF)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

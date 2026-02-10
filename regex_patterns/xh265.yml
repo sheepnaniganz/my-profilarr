@@ -1,0 +1,7 @@
+name: xh264
+pattern: '[xh][ ._-]?265|\bHEVC(\b|\d)'
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

@@ -1,0 +1,7 @@
+name: KAF
+pattern: \b(KAF)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

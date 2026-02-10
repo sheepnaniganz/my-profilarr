@@ -1,0 +1,6 @@
+name: Radarr - EA
+pattern: ^(EA)$
+description: ''
+tags:
+- Radarr
+tests: []

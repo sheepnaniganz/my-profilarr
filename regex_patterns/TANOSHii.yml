@@ -1,0 +1,7 @@
+name: TANOSHii
+pattern: \b(-TANOSHii)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

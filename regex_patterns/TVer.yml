@@ -1,0 +1,7 @@
+name: TVer
+pattern: \b(tver)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

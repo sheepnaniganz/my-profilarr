@@ -1,0 +1,6 @@
+name: Radarr - PTNK
+pattern: ^(PTNK)$
+description: ''
+tags:
+- Radarr
+tests: []

@@ -1,0 +1,6 @@
+name: Sonarr - FTMVHD
+pattern: ^(FTMVHD)$
+description: ''
+tags:
+- Sonarr
+tests: []

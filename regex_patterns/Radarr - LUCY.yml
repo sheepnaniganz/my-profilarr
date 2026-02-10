@@ -1,0 +1,6 @@
+name: Radarr - LUCY
+pattern: ^(LUCY)$
+description: ''
+tags:
+- Radarr
+tests: []

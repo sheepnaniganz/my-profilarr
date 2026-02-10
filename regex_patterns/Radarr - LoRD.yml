@@ -1,0 +1,6 @@
+name: Radarr - LoRD
+pattern: ^(LoRD)$
+description: ''
+tags:
+- Radarr
+tests: []

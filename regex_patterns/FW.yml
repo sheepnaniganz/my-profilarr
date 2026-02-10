@@ -1,0 +1,7 @@
+name: FW
+pattern: ^(FW)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

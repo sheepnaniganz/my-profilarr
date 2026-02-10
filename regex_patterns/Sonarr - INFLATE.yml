@@ -1,0 +1,6 @@
+name: Sonarr - INFLATE
+pattern: ^(INFLATE)$
+description: ''
+tags:
+- Sonarr
+tests: []

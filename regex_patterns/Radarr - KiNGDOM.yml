@@ -1,0 +1,6 @@
+name: Radarr - KiNGDOM
+pattern: ^(KiNGDOM)$
+description: ''
+tags:
+- Radarr
+tests: []

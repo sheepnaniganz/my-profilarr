@@ -1,0 +1,6 @@
+name: Sonarr - ABJ
+pattern: ^(ABJ)$
+description: ''
+tags:
+- Sonarr
+tests: []

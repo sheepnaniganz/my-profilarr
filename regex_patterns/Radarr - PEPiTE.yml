@@ -1,0 +1,6 @@
+name: Radarr - PEPiTE
+pattern: ^(PEPiTE)$
+description: ''
+tags:
+- Radarr
+tests: []

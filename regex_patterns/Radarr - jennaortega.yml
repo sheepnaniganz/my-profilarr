@@ -1,0 +1,6 @@
+name: Radarr - jennaortega
+pattern: (?<!-)\b(jennaortega(UHD)?)\b
+description: ''
+tags:
+- Radarr
+tests: []

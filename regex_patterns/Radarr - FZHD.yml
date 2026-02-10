@@ -1,0 +1,6 @@
+name: Radarr - FZHD
+pattern: ^(FZHD)$
+description: ''
+tags:
+- Radarr
+tests: []

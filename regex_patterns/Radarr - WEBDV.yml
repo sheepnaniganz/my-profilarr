@@ -1,0 +1,6 @@
+name: Radarr - WEBDV
+pattern: ^(WEBDV)$
+description: ''
+tags:
+- Radarr
+tests: []

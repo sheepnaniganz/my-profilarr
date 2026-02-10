@@ -1,0 +1,7 @@
+name: Crave Rename
+pattern: \[(CRAV)\b|\b(CRAV)\]
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

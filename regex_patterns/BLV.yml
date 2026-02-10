@@ -1,0 +1,7 @@
+name: BLV
+pattern: \b(BLV)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

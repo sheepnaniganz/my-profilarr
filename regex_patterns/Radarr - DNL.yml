@@ -1,0 +1,6 @@
+name: Radarr - DNL
+pattern: ^(DNL)$
+description: ''
+tags:
+- Radarr
+tests: []

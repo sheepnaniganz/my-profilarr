@@ -1,0 +1,6 @@
+name: Radarr - MUSTANG
+pattern: ^(MUSTANG)$
+description: ''
+tags:
+- Radarr
+tests: []

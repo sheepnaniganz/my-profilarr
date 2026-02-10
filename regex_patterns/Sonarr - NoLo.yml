@@ -1,0 +1,6 @@
+name: Sonarr - NoLo
+pattern: ^(NoLo)$
+description: ''
+tags:
+- Sonarr
+tests: []

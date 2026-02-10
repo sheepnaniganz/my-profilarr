@@ -1,0 +1,7 @@
+name: PATOPESTO
+pattern: ^(PATOPESTO)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

@@ -1,0 +1,6 @@
+name: Radarr - NCmt
+pattern: ^(NCmt)$
+description: ''
+tags:
+- Radarr
+tests: []

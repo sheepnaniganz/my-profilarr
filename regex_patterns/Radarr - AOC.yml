@@ -1,0 +1,6 @@
+name: Radarr - AOC
+pattern: ^(AOC)$
+description: ''
+tags:
+- Radarr
+tests: []
