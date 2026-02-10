@@ -1,13 +1,9 @@
 name: 1080p Efficient
 description: '1080p Efficient targets high quality x265 Bluray and WEB Encodes
 
-
   - Average Movie Sizes ~ 6 to 12gb per Movie
-
   - Movie Quality Ranking ~ 7/10
-
   - Average TV Sizes ~ 2 to 3gb per Episode
-
   - TV Quality Ranking ~ 6/10'
 tags:
 - 1080p
@@ -80,13 +76,9 @@ custom_formats:
   score: 10000
 - name: AMZN
   score: 3000
-- name: Dolby Vision
-  score: 3000
 - name: DSNP
   score: 3000
 - name: ATVP
-  score: 2000
-- name: HDR10+
   score: 2000
 - name: HMAX
   score: 2000
@@ -94,30 +86,22 @@ custom_formats:
   score: 2000
 - name: DS4K
   score: 1000
-- name: HDR
-  score: 1000
-- name: HDR10
-  score: 1000
-- name: HLG
-  score: 1000
 - name: iT
   score: 1000
 - name: NF
   score: 1000
-- name: PQ
-  score: 1000
 - name: FLAC
-  score: 800
+  score: 0
 - name: DTS-HD HRA
-  score: 700
+  score: 0
 - name: Opus
   score: 700
 - name: Dolby Digital +
-  score: 600
+  score: 0
 - name: DTS-ES
-  score: 500
+  score: 0
 - name: Dolby Atmos
-  score: 400
+  score: 0
 - name: Dolby Digital
   score: 400
 - name: DTS
@@ -135,11 +119,11 @@ custom_formats:
 - name: WEB-DL Tier 5
   score: 20
 - name: Repack3
-  score: 8
+  score: 12
 - name: Repack2
-  score: 7
+  score: 11
 - name: Repack1
-  score: 6
+  score: 10
 - name: CRAV
   score: 0
 - name: CRIT
@@ -168,6 +152,18 @@ custom_formats:
   score: 0
 - name: STAN
   score: 0
+- name: HDR10+
+  score: -999999
+- name: PQ
+  score: -999999
+- name: HDR
+  score: -999999
+- name: HDR10
+  score: -999999
+- name: HLG
+  score: -999999
+- name: Dolby Vision
+  score: -999999
 - name: ASL
   score: -999999
 - name: AV1
@@ -289,7 +285,7 @@ custom_formats_sonarr:
 - name: 1080p Efficient TV WEB Tier 5
   score: 300000
 - name: Season Pack
-  score: 10
+  score: 20
 - name: Remux (Source)
   score: -999999
 - name: TV Extras
