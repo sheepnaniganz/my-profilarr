@@ -90,18 +90,6 @@ custom_formats:
   score: 1000
 - name: NF
   score: 1000
-- name: FLAC
-  score: 0
-- name: DTS-HD HRA
-  score: 0
-- name: Opus
-  score: 700
-- name: Dolby Digital +
-  score: 0
-- name: DTS-ES
-  score: 0
-- name: Dolby Atmos
-  score: 0
 - name: Dolby Digital
   score: 400
 - name: DTS
@@ -124,6 +112,18 @@ custom_formats:
   score: 11
 - name: Repack1
   score: 10
+- name: FLAC
+  score: 0
+- name: DTS-HD HRA
+  score: 0
+- name: Opus
+  score: 0
+- name: Dolby Digital +
+  score: 0
+- name: DTS-ES
+  score: 0
+- name: Dolby Atmos
+  score: 0
 - name: CRAV
   score: 0
 - name: CRIT
@@ -152,6 +152,8 @@ custom_formats:
   score: 0
 - name: STAN
   score: 0
+- name: AAC (High Count)
+  score: -999999
 - name: HDR10+
   score: -999999
 - name: PQ
