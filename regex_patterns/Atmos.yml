@@ -3,7 +3,7 @@ pattern: \bATMOS|DDPA(\b|\d)
 description: ''
 tags:
 - Audio
-- Enhancement
+- Dolby
 tests:
 - id: 1
   input: The.Last.of.Us.S01.2160p.UHD.BluRay.Remux.TrueHDA7.1.H.265-PmP

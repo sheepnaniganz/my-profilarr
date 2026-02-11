@@ -56,6 +56,11 @@ conditions:
   pattern: HiFi
   required: false
   type: release_group
+- name: HiSD
+  negate: false
+  required: false
+  type: release_group
+  pattern: HiSD
 - name: LoRD
   negate: false
   pattern: LoRD

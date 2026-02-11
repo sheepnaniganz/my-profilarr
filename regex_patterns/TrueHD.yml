@@ -1,7 +1,7 @@
 name: TrueHD
-pattern: True[ .-]?HD
+pattern: True[ .-]?HD[ .-]?
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Audio
+- Lossless
 tests: []

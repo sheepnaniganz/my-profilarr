@@ -1,7 +1,8 @@
 name: BNd
-pattern: ^(BNd)$
+pattern: (?<=^|[\s.-])BNd\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

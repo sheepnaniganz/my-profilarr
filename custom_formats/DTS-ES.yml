@@ -3,6 +3,7 @@ description: Matches 'DTS-ES' Regex Pattern and negates any other audio types th
   might conflict.
 tags:
 - Audio
+- DTS
 conditions:
 - name: DTS-ES
   negate: false

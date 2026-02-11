@@ -1,0 +1,7 @@
+name: Criterion
+pattern: \b(Criterion)\b
+description: ''
+tags:
+- Edition
+- TRaSH
+tests: []

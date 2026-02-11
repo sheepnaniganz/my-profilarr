@@ -1,0 +1,8 @@
+name: heb
+pattern: '[.]heb\b'
+description: 'Retags'
+tags:
+- Release Group
+- Banned
+- TRaSH
+tests: []

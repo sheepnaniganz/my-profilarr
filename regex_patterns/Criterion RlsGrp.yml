@@ -1,0 +1,7 @@
+name: Criterion RlsGrp
+pattern: (?<=^|[\s.-])Criterion\b
+description: ''
+tags:
+- Release Group
+- TRaSH
+tests: []

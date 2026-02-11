@@ -1,7 +1,8 @@
 name: EXTREME
-pattern: ^(EXTREME)$
+pattern: (?<=^|[\s.-])EXTREME\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

@@ -3,6 +3,7 @@ description: Matches 'DTS-X' Regex Pattern and negates any other audio types tha
   might conflict.
 tags:
 - Audio
+- DTS
 conditions:
 - name: DTS-X
   negate: false

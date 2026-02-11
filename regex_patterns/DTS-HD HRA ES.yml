@@ -3,4 +3,5 @@ pattern: dts[-. ]?(es|(hd[. ]?)?(hr|hi))
 description: ''
 tags:
 - Audio
+- DTS
 tests: []

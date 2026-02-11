@@ -1,5 +1,5 @@
 name: 7.1 Surround
-pattern: \D7\.1\D
+pattern: '[^0-9]7[ .][0-1]'
 description: ''
 tags:
 - Audio

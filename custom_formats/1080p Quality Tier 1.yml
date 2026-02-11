@@ -26,6 +26,10 @@ conditions:
   required: false
   source: webrip
   type: source
+- name: BBQ
+  negate: false
+  required: false
+  type: release_group
 - name: coffee
   type: release_group
   required: false

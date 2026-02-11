@@ -1,7 +1,8 @@
 name: alfaHD
-pattern: ^(alfaHD.*)$
+pattern: (?<=^|[\s.-])alfaHD\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

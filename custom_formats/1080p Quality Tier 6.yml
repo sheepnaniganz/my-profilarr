@@ -31,6 +31,11 @@ conditions:
   pattern: ASD87
   required: false
   type: release_group
+- name: BHDStudio
+  negate: false
+  pattern: BHDStudio
+  required: false
+  type: release_group
 - name: BRUTE
   negate: false
   pattern: BRUTE
@@ -56,6 +61,11 @@ conditions:
   pattern: HaB
   required: false
   type: release_group
+- name: hallowed
+  negate: false
+  pattern: hallowed
+  required: false
+  type: release_group
 - name: HANDJOB
   negate: false
   pattern: HANDJOB
@@ -64,6 +74,11 @@ conditions:
 - name: HDC
   negate: false
   pattern: HDC
+  required: false
+  type: release_group
+- name: HONE
+  negate: false
+  pattern: HONE
   required: false
   type: release_group
 - name: iON
@@ -124,6 +139,11 @@ conditions:
 - name: PuTao
   negate: false
   pattern: PuTao
+  required: false
+  type: release_group
+- name: QOQ
+  negate: false
+  pattern: QOQ
   required: false
   type: release_group
 - name: ROCiNANTE

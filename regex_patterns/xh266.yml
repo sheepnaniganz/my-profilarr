@@ -1,7 +1,9 @@
 name: xh266
-pattern: '[xh][ ._-]?266|\bVVC(\b|\d)'
+pattern: (?<=^|[\s.-])[xh](\.?266)\b|VVC\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Encoder
+- Codec
+- Bleeding Edge
+- TRaSH
 tests: []

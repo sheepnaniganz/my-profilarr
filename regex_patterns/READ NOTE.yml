@@ -1,0 +1,8 @@
+name: READ NOTE
+pattern: (?<=^|[\s.-])(READ(\s|\.)+NOTE)\b
+description: ''
+tags:
+- Release Group
+- Banned
+- TRaSH
+tests: []

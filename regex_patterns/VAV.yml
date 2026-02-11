@@ -1,0 +1,8 @@
+name: VAV
+pattern: '[.]VAV\b'
+description: 'Retags'
+tags:
+- Release Group
+- Banned
+- TRaSH
+tests: []

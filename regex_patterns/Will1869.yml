@@ -1,0 +1,7 @@
+name: Will1869
+pattern: (?<=^|[\s.-])Will1869\b
+description: ''
+tags:
+- Release Group
+- Banned
+tests: []

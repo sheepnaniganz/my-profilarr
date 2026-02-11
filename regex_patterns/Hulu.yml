@@ -2,6 +2,6 @@ name: Hulu
 pattern: \b(hulu)\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Streaming Service
+- WEB-DL
 tests: []

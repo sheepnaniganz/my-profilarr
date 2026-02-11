@@ -2,6 +2,6 @@ name: Remaster
 pattern: Remaster
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Enhancement
+- TRaSH
 tests: []

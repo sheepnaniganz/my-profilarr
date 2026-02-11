@@ -2,6 +2,7 @@ name: HDR
 pattern: \bHDR(\b|\d)
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Enhancement
+- Colour Grade
+- HDR
 tests: []

@@ -3,6 +3,7 @@ description: Matches 'DTS-HD HRA' Regex Pattern and negates any other audio type
   that might conflict.
 tags:
 - Audio
+- DTS
 conditions:
 - name: DTS-HD HRA
   negate: false

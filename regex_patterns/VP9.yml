@@ -2,6 +2,8 @@ name: VP9
 pattern: \bVP9\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Encoder
+- Codec
+- Bleeding Edge
+- TRaSH
 tests: []

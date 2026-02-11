@@ -3,6 +3,7 @@ pattern: \bDD[^a-z+]|(?<!e)ac3
 description: ''
 tags:
 - Audio
+- Dolby
 tests:
 - expected: true
   id: 1

@@ -1,7 +1,8 @@
 name: BAT
-pattern: ^(BAT)$
+pattern: (?<=^|[\s.-])BAT\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

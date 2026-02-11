@@ -2,6 +2,7 @@ name: MPEG2
 pattern: MPEG[-.]?2
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Encoder
+- Codec
+- TRaSH
 tests: []

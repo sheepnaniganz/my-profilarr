@@ -1,0 +1,8 @@
+name: ORARBG
+pattern: \b(ORARBG)\b
+description: 'Retags'
+tags:
+- Release Group
+- Banned
+- TRaSH
+tests: []

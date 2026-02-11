@@ -9,6 +9,11 @@ conditions:
   pattern: Release Group (Missing)
   required: false
   type: release_group
+- name: 1XBET
+  negate: false
+  pattern: 1XBET
+  required: false
+  type: release_group
 - name: 4K4U
   negate: false
   pattern: 4K4U
@@ -62,6 +67,11 @@ conditions:
 - name: d3g
   negate: false
   pattern: d3g
+  required: false
+  type: release_group
+- name: D3US
+  negate: false
+  pattern: D3US
   required: false
   type: release_group
 - name: DepraveD
@@ -164,6 +174,11 @@ conditions:
   pattern: RARGB
   required: false
   type: release_group
+- name: READ NOTE
+  negate: false
+  pattern: READ NOTE
+  required: false
+  type: release_group
 - name: SasukeducK
   negate: false
   pattern: SasukeducK
@@ -222,6 +237,11 @@ conditions:
 - name: VisionXpert
   negate: false
   pattern: VisionXpert
+  required: false
+  type: release_group
+- name: Will1869
+  negate: false
+  pattern: Will1869
   required: false
   type: release_group
 - name: x0r

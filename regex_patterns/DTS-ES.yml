@@ -2,6 +2,6 @@ name: DTS-ES
 pattern: dts[-. ]?es\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Audio
+- DTS
 tests: []

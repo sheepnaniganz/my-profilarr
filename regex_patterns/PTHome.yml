@@ -1,7 +1,8 @@
 name: PTHome
-pattern: ^(PTHome)$
-description: ''
+pattern: (?<=^|[\s.-])PTHome\b
+description: 'Banned Bad Dual Groups'
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

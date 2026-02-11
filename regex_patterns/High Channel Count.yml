@@ -2,6 +2,7 @@ name: High Channel Count
 pattern: '[^0-9][3-9][ .][0-1]\b'
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Audio
+- Channel
+- TRaSH
 tests: []

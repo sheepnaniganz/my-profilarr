@@ -1,0 +1,16 @@
+name: xh264 (2160p)
+description: 'Matches ''xh264'' regex pattern only when 2160p is also found. '
+tags:
+- Codec
+conditions:
+- name: 2160p
+  negate: false
+  required: true
+  resolution: 2160p
+  type: resolution
+- name: xh264
+  negate: false
+  pattern: xh264
+  required: true
+  type: release_title
+tests: []

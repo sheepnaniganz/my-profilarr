@@ -3,6 +3,7 @@ pattern: \bTrue[ .-]?HDA[ .-]?[57]\.1
 description: Matches BroadcastTheNet Atmos naming convention
 tags:
 - Audio
+- Dolby
 tests:
 - id: 1
   input: The.Last.of.Us.S01.2160p.UHD.BluRay.Remux.TrueHDA7.1.H.265-PmP

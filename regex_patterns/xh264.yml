@@ -2,6 +2,6 @@ name: xh264
 pattern: '[xh][ ._-]?264|\bAVC(\b|\d)'
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Encoder
+- Codec
 tests: []

@@ -1,0 +1,12 @@
+name: xh266
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#x266)'
+tags:
+- Codec
+- Bleeding Edge
+conditions:
+- name: x|h266
+  negate: false
+  required: true
+  type: release_title
+  pattern: xh266
+tests: []

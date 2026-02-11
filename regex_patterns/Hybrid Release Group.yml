@@ -1,7 +1,7 @@
 name: Hybrid Release Group
-pattern: -HYBRID
+pattern: (?<=^|[\s.-])HYBRID\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- TRaSH
 tests: []

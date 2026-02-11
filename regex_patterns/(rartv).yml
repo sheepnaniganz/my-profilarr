@@ -1,7 +1,8 @@
 name: (rartv)
 pattern: \[rartv\]
-description: ''
+description: 'Retags'
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

@@ -1,7 +1,8 @@
 name: G4RiS
-pattern: ^(G4RiS)$
+pattern: (?<=^|[\s.-])G4RiS\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

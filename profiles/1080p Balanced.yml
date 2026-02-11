@@ -19,7 +19,7 @@ tags:
 upgradesAllowed: true
 minCustomFormatScore: 20000
 upgradeUntilScore: 888888
-minScoreIncrement: 1
+minScoreIncrement: 10
 custom_formats:
 - name: 1080p WEB-DL
   score: 280000
@@ -161,8 +161,6 @@ custom_formats:
   score: -999999
 - name: Full Disc
   score: -999999
-- name: h265
-  score: -999999
 - name: HDR
   score: -999999
 - name: HDR10
@@ -177,9 +175,9 @@ custom_formats:
   score: -999999
 - name: VP9
   score: -999999
-- name: VVC
+- name: xh266
   score: -999999
-- name: x265
+- name: xh265
   score: -999999
 - name: Xvid
   score: -999999

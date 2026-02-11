@@ -1,7 +1,8 @@
 name: Cory
-pattern: ^(Cory)$
+pattern: (?<=^|[\s.-])Cory\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

@@ -1,5 +1,5 @@
 name: 5.1 Surround
-pattern: \D5\.1\D
+pattern: '[^0-9]5[ .][0-1]'
 description: ''
 tags:
 - Audio

@@ -1,7 +1,8 @@
 name: hi10p
-pattern: hi10p
+pattern: \bhi10p(\b|\d)
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Enhancement
+- Colour Grade
+- TRaSH
 tests: []

@@ -1,7 +1,8 @@
 name: FOXX
-pattern: ^(FOXX)$
+pattern: (?<=^|[\s.-])FOXX\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

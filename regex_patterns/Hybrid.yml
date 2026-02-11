@@ -1,7 +1,7 @@
 name: Hybrid
-pattern: \bhybrid(\b|\d)
+pattern: \b(hybrid)(\b|\d)
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Enhancement
+- TRaSH
 tests: []

@@ -1,0 +1,16 @@
+name: xh265
+description: Matches 'xh265' regex pattern.
+tags:
+- Codec
+conditions:
+- name: xh265
+  negate: false
+  pattern: xh265
+  required: true
+  type: release_title
+- name: Not 2160p
+  type: resolution
+  required: true
+  negate: true
+  resolution: 2160p
+tests: []

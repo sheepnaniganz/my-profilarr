@@ -1,0 +1,7 @@
+name: BBQ
+pattern: (?<=^|[\s.-])BBQ\b
+description: ''
+tags:
+- Release Group
+- Bluray
+tests: []

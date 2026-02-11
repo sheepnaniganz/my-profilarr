@@ -1,7 +1,10 @@
 name: BBC iPlayer
 pattern: \b(ip|iplayer)\b
-description: ''
+description: 'BBC iPlayer is a video on demand service from the BBC. The service is
+  available over-the-top on a wide range of devices, including mobile phones and tablets,
+  personal computers and smart televisions. iPlayer services delivered to UK-based
+  viewers are free from commercial advertising. '
 tags:
-- Radarr
-- Sonarr
+- Streaming Service
+- WEB-DL
 tests: []

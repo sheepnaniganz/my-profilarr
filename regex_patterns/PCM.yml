@@ -2,6 +2,5 @@ name: PCM
 pattern: \b(l?)PCM(\b|\d)
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Audio
 tests: []

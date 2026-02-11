@@ -1,7 +1,8 @@
 name: (TGx)
 pattern: \[TGx\]
-description: ''
+description: 'Retags'
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []

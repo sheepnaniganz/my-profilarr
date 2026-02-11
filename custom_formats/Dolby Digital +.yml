@@ -3,6 +3,7 @@ description: Matches 'Dolby Digital +' Regex Pattern and negates any other audio
   that might conflict.
 tags:
 - Audio
+- Dolby
 conditions:
 - name: Dolby Digital +
   negate: false

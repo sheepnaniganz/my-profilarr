@@ -180,7 +180,7 @@ custom_formats:
   score: -999999
 - name: Full Disc
   score: -999999
-- name: h265 (Efficient)
+- name: xh265 (Efficient)
   score: -999999
 - name: Lossless Audio
   score: -999999
@@ -188,9 +188,7 @@ custom_formats:
   score: -999999
 - name: VP9
   score: -999999
-- name: VVC
-  score: -999999
-- name: x265 (Efficient)
+- name: xh266
   score: -999999
 - name: Xvid
   score: -999999
@@ -247,7 +245,7 @@ custom_formats_radarr:
   score: -999999
 - name: Sing Along
   score: -999999
-- name: Upscale
+- name: Upscaled (Radarr)
   score: -999999
 custom_formats_sonarr:
 - name: 1080p Efficient TV Bluray Tier 1
@@ -292,7 +290,7 @@ custom_formats_sonarr:
   score: -999999
 - name: TV Extras
   score: -999999
-- name: Upscaled
+- name: Upscaled (Sonarr)
   score: -999999
 qualities:
 - id: -1

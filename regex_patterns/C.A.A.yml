@@ -1,7 +1,8 @@
 name: C.A.A
-pattern: ^(C\.A\.A)$
+pattern: (?<=^|[\s.-])C\.A\.A\b
 description: ''
 tags:
-- Radarr
-- Sonarr
+- Release Group
+- Banned
+- TRaSH
 tests: []
