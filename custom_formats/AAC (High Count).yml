@@ -9,10 +9,30 @@ conditions:
   pattern: AAC
   required: true
   type: release_title
+- name: Not Mono
+  negate: true
+  pattern: Mono
+  required: true
+  type: release_title
+- name: Not Stereo
+  negate: true
+  pattern: Stereo
+  required: true
+  type: release_title
+- name: 3.0ch
+  negate: false
+  pattern: 3.0ch
+  required: false
+  type: release_title
+- name: 4.0ch
+  negate: false
+  pattern: 4.0ch
+  required: false
+  type: release_title
 - name: High Channel Count
   negate: false
   pattern: High Channel Count
-  required: true
+  required: false
   type: release_title
 - name: Not Dolby Digital
   negate: true

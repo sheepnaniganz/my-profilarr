@@ -130,8 +130,6 @@ custom_formats:
   score: 1000
 - name: HLG
   score: 1000
-- name: NF
-  score: 1000
 - name: PQ
   score: 1000
 - name: DTS-HD HRA
@@ -218,6 +216,8 @@ custom_formats:
   score: -999999
 - name: AV1
   score: -999999
+- name: Bad Dual Groups
+  score: -999999
 - name: Banned Groups
   score: -999999
 - name: Banned UHD Bluray
@@ -232,7 +232,11 @@ custom_formats:
   score: -999999
 - name: Remux
   score: -999999
+- name: Retags
+  score: -999999
 - name: VP9
+  score: -999999
+- name: VVC
   score: -999999
 - name: xh266
   score: -999999
@@ -257,26 +261,28 @@ custom_formats_radarr:
   score: 100000
 - name: 720p Balanced Tier 1
   score: 60000
-- name: MA
-  score: 6000
-- name: DSNP
-  score: 4000
-- name: iT
-  score: 4000
-- name: HMAX
-  score: 2000
-- name: MAX
-  score: 2000
+- name: IMAX
+  score: 8000
+- name: IMAX Enhanced
+  score: 8000
 - name: Better Theatricals
-  score: 1000
+  score: 7000
 - name: Special Edition
-  score: 1000
-- name: Disney+ Enhancement
-  score: -1000
-- name: Movies Anywhere Enhancement
-  score: -2000
-- name: iTunes Enhancement
-  score: -3000
+  score: 7000
+- name: Hybrid
+  score: 6000
+- name: Remaster
+  score: 5000
+- name: 4k Remaster
+  score: 5000
+- name: Criterion Collection
+  score: 5000
+- name: Masters of Cinema
+  score: 5000
+- name: Vinegar Syndrome
+  score: 5000
+- name: MA
+  score: 4000
 - name: 3D
   score: -999999
 - name: B&W
@@ -294,18 +300,8 @@ custom_formats_radarr:
 custom_formats_sonarr:
 - name: 2160p Balanced Tier 1
   score: 444000
-- name: DSNP
-  score: 3000
-- name: HMAX
-  score: 3000
-- name: MAX
-  score: 3000
-- name: iT
-  score: 1000
 - name: Season Pack
-  score: 10
-- name: HBO Max Enhancement
-  score: -1000
+  score: 20
 - name: Remux (Source)
   score: -999999
 - name: TV Extras
