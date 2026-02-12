@@ -1,0 +1,13 @@
+name: 'Language: Not Original'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#language-not-original)'
+tags:
+- TRaSH
+- Language
+- Audio
+conditions:
+- name: Not Original Language
+  negate: true
+  required: false
+  type: language
+  language: original
+tests: []
