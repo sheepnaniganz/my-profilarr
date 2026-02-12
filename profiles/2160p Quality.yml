@@ -300,6 +300,8 @@ custom_formats_radarr:
 custom_formats_sonarr:
 - name: 2160p Balanced Tier 1
   score: 444000
+- name: Uncensored
+  score: 10000
 - name: Season Pack
   score: 20
 - name: Remux (Source)

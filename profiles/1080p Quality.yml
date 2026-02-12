@@ -248,6 +248,8 @@ custom_formats_radarr:
 - name: Upscaled (Radarr)
   score: -999999
 custom_formats_sonarr:
+- name: Uncensored
+  score: 10000
 - name: Season Pack
   score: 20
 - name: Remux (Source)
