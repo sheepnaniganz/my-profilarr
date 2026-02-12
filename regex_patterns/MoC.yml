@@ -1,0 +1,7 @@
+name: MoC
+pattern: \b(MoC)\b
+description: ''
+tags:
+- Edition
+- TRaSH
+tests: []

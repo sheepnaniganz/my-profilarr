@@ -1,5 +1,5 @@
 name: xh264
-pattern: '[xh][ ._-]?264|\bAVC(\b|\d)'
+pattern: (?<=^|[\s.-])[xh](\.?264)\b|AVC\b
 description: ''
 tags:
 - Encoder

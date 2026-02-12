@@ -20,7 +20,7 @@ tags:
 upgradesAllowed: true
 minCustomFormatScore: 20000
 upgradeUntilScore: 888888
-minScoreIncrement: 1
+minScoreIncrement: 10
 custom_formats:
 - name: 2160p Quality Tier 1
   score: 465000
@@ -106,10 +106,10 @@ custom_formats:
   score: 10000
 - name: Dolby Vision
   score: 3000
-- name: AMZN
+- name: CRIT
   score: 2000
-- name: ATVP
-  score: 2000
+- name: BCORE
+  score: 1000
 - name: HDR10+
   score: 2000
 - name: DTS-X
@@ -120,8 +120,6 @@ custom_formats:
   score: 1200
 - name: TrueHD (Missing)
   score: 1200
-- name: Amazon Enhancement
-  score: 1000
 - name: HDR
   score: 1000
 - name: HDR (Missing)
@@ -136,13 +134,7 @@ custom_formats:
   score: 1000
 - name: PQ
   score: 1000
-- name: FLAC
-  score: 800
-- name: PCM
-  score: 800
 - name: DTS-HD HRA
-  score: 700
-- name: Opus
   score: 700
 - name: Dolby Digital +
   score: 600
@@ -167,18 +159,32 @@ custom_formats:
 - name: WEB-DL Tier 4
   score: 40
 - name: WEB-DL Tier 5
-  score: 20
+  score: 30
 - name: Repack3
-  score: 8
+  score: 12
 - name: Repack2
-  score: 7
+  score: 11
 - name: Repack1
-  score: 6
-- name: BCORE
+  score: 10
+- name: FLAC
+  score: 0
+- name: Opus
+  score: 0
+- name: AMZN
+  score: 0
+- name: DSNP
+  score: 0
+- name: ATVP
+  score: 0
+- name: HMAX
+  score: 0
+- name: MAX
+  score: 0
+- name: NF
+  score: 0
+- name: iT
   score: 0
 - name: CRAV
-  score: 0
-- name: CRIT
   score: 0
 - name: DRPO
   score: 0
@@ -204,8 +210,10 @@ custom_formats:
   score: 0
 - name: STAN
   score: 0
-- name: x265 (Bluray)
+- name: xh265 (Bluray)
   score: -400000
+- name: AAC (High Count)
+  score: -999999
 - name: ASL
   score: -999999
 - name: AV1
@@ -218,21 +226,21 @@ custom_formats:
   score: -999999
 - name: Dolby Vision (Without Fallback)
   score: -999999
-- name: Full Disc
+- name: Dubs Only
   score: -999999
-- name: h265
+- name: Full Disc
   score: -999999
 - name: Remux
   score: -999999
 - name: VP9
   score: -999999
-- name: x266
+- name: xh266
   score: -999999
-- name: x264 (2160p)
+- name: xh264 (2160p)
   score: -999999
-- name: x265 (Missing)
+- name: xh265 (Missing)
   score: -999999
-- name: x265 (WEB)
+- name: xh265 (WEB)
   score: -999999
 - name: Xvid
   score: -999999
@@ -281,7 +289,7 @@ custom_formats_radarr:
   score: -999999
 - name: Sing Along
   score: -999999
-- name: Upscale
+- name: Upscaled (Radarr)
   score: -999999
 custom_formats_sonarr:
 - name: 2160p Balanced Tier 1
@@ -302,7 +310,7 @@ custom_formats_sonarr:
   score: -999999
 - name: TV Extras
   score: -999999
-- name: Upscaled
+- name: Upscaled (Sonarr)
   score: -999999
 qualities:
 - id: -1

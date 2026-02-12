@@ -1,5 +1,5 @@
 name: xh265
-pattern: '[xh][ ._-]?265|\bHEVC(\b|\d)'
+pattern: (?<=^|[\s.-])[xh](\.?265)\b|HEVC\b
 description: ''
 tags:
 - Encoder

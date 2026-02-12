@@ -28,9 +28,9 @@ tests:
     required: true
     type: release_title
   - matches: true
-    name: x265
+    name: xh265
     negate: true
-    pattern: x265
+    pattern: xh265
     required: false
     type: release_title
   expected: false

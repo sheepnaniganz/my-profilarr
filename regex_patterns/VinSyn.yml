@@ -1,0 +1,7 @@
+name: VinSyn
+pattern: \b(VinSyn)\b
+description: ''
+tags:
+- Edition
+- TRaSH
+tests: []

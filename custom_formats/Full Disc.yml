@@ -30,7 +30,7 @@ conditions:
   type: release_title
 - name: Not x265
   negate: true
-  pattern: x265
+  pattern: xh265
   required: true
   type: release_title
 tests:
@@ -48,9 +48,9 @@ tests:
     required: false
     type: release_title
   - matches: false
-    name: x265
+    name: xh265
     negate: true
-    pattern: x265
+    pattern: xh265
     required: false
     type: release_title
   - matches: true
