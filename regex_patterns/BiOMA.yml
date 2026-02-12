@@ -1,0 +1,8 @@
+name: BiOMA
+pattern: (?<=^|[\s.-])BiOMA\b
+description: Bad Dual Groups
+tags:
+- Release Group
+- Banned
+- TRaSH
+tests: []

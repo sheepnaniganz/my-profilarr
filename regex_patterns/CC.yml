@@ -1,0 +1,7 @@
+name: CC
+pattern: \b(CC)\b
+description: 'Criterion Collection'
+tags:
+- Release Title
+- TRaSH
+tests: []

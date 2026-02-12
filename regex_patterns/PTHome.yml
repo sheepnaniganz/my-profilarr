@@ -1,6 +1,6 @@
 name: PTHome
 pattern: (?<=^|[\s.-])PTHome\b
-description: 'Banned Bad Dual Groups'
+description: 'Bad Dual Groups'
 tags:
 - Release Group
 - Banned

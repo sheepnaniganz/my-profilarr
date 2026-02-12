@@ -8,6 +8,11 @@ conditions:
   required: true
   source: television
   type: source
+- name: Not 2160p
+  type: resolution
+  required: true
+  negate: true
+  resolution: 2160p
 - name: Not 1080p
   type: resolution
   required: true

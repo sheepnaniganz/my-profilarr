@@ -1,4 +1,4 @@
-name: Upscaled
+name: Upscaled (Sonarr)
 description: 'Matches the ''Upscaled'' regex pattern - Sonarr Version'
 tags:
 - Banned

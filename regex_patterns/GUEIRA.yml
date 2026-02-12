@@ -1,6 +1,6 @@
 name: GUEIRA
 pattern: (?<=^|[\s.-])GUEIRA\b
-description: ''
+description: 'Bad Dual Groups'
 tags:
 - Release Group
 - Banned

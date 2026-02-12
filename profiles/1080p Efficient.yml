@@ -78,6 +78,8 @@ custom_formats:
   score: 3000
 - name: DSNP
   score: 3000
+- name: Amazon Enhancement
+  score: 2000
 - name: ATVP
   score: 2000
 - name: HMAX
@@ -105,7 +107,7 @@ custom_formats:
 - name: WEB-DL Tier 4
   score: 40
 - name: WEB-DL Tier 5
-  score: 20
+  score: 30
 - name: Repack3
   score: 12
 - name: Repack2
@@ -154,18 +156,6 @@ custom_formats:
   score: 0
 - name: AAC (High Count)
   score: -999999
-- name: HDR10+
-  score: -999999
-- name: PQ
-  score: -999999
-- name: HDR
-  score: -999999
-- name: HDR10
-  score: -999999
-- name: HLG
-  score: -999999
-- name: Dolby Vision
-  score: -999999
 - name: ASL
   score: -999999
 - name: AV1
@@ -176,17 +166,37 @@ custom_formats:
   score: -999999
 - name: BCORE
   score: -999999
+- name: Dolby Vision
+  score: -999999
 - name: Dolby Vision (Without Fallback)
+  score: -999999
+- name: Dubs Only
   score: -999999
 - name: Full Disc
   score: -999999
-- name: xh265 (Efficient)
+- name: HDR
+  score: -999999
+- name: HDR10
+  score: -999999
+- name: HDR10+
+  score: -999999
+- name: HLG
   score: -999999
 - name: Lossless Audio
   score: -999999
+- name: Not Original
+  score: -999999
+- name: PQ
+  score: -999999
 - name: Remux
   score: -999999
+- name: Retags
+  score: -999999
 - name: VP9
+  score: -999999
+- name: VVC
+  score: -999999
+- name: xh265 (Efficient)
   score: -999999
 - name: xh266
   score: -999999
@@ -284,6 +294,8 @@ custom_formats_sonarr:
   score: 301000
 - name: 1080p Efficient TV WEB Tier 5
   score: 300000
+- name: Uncensored
+  score: 10000
 - name: Season Pack
   score: 20
 - name: Remux (Source)

@@ -1,5 +1,5 @@
-name: BNd
-pattern: (?<=^|[\s.-])BNd\b
+name: TURG
+pattern: (?<=^|[\s.-])TURG\b
 description: 'Bad Dual Groups'
 tags:
 - Release Group

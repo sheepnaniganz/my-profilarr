@@ -1,5 +1,5 @@
-name: BNd
-pattern: (?<=^|[\s.-])BNd\b
+name: tokar86a
+pattern: (?<=^|[\s.-])tokar86a\b
 description: 'Bad Dual Groups'
 tags:
 - Release Group

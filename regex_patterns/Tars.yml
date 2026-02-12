@@ -1,5 +1,5 @@
-name: BNd
-pattern: (?<=^|[\s.-])BNd\b
+name: Tars
+pattern: (?<=^|[\s.-])Tars\b
 description: 'Bad Dual Groups'
 tags:
 - Release Group

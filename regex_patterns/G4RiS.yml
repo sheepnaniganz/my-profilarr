@@ -1,6 +1,6 @@
 name: G4RiS
 pattern: (?<=^|[\s.-])G4RiS\b
-description: ''
+description: 'Bad Dual Groups'
 tags:
 - Release Group
 - Banned

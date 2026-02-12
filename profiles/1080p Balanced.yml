@@ -86,11 +86,11 @@ custom_formats:
 - name: NF
   score: 1000
 - name: FLAC
-  score: 800
+  score: 0
 - name: DTS-HD HRA
   score: 700
 - name: Opus
-  score: 700
+  score: 0
 - name: Dolby Digital +
   score: 600
 - name: DTS-ES
@@ -112,13 +112,13 @@ custom_formats:
 - name: WEB-DL Tier 4
   score: 40
 - name: WEB-DL Tier 5
-  score: 20
+  score: 30
 - name: Repack3
-  score: 8
+  score: 12
 - name: Repack2
-  score: 7
+  score: 11
 - name: Repack1
-  score: 6
+  score: 10
 - name: CRAV
   score: 0
 - name: CRIT
@@ -206,16 +206,16 @@ custom_formats_radarr:
   score: -999999
 - name: Sing Along
   score: -999999
-- name: Upscale
+- name: Upscaled (Radarr)
   score: -999999
 custom_formats_sonarr:
 - name: Season Pack
-  score: 10
+  score: 20
 - name: Remux (Source)
   score: -999999
 - name: TV Extras
   score: -999999
-- name: Upscaled
+- name: Upscaled (Sonarr)
   score: -999999
 qualities:
 - id: -1

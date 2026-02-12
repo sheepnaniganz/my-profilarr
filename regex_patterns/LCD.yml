@@ -1,5 +1,5 @@
-name: BNd
-pattern: (?<=^|[\s.-])BNd\b
+name: LCD
+pattern: (?<=^|[\s.-])LCD\b
 description: 'Bad Dual Groups'
 tags:
 - Release Group

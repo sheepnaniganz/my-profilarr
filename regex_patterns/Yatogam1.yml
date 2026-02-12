@@ -1,5 +1,5 @@
-name: BNd
-pattern: (?<=^|[\s.-])BNd\b
+name: Yatogam1
+pattern: (?<=^|[\s.-])Yatogam1\b
 description: 'Bad Dual Groups'
 tags:
 - Release Group

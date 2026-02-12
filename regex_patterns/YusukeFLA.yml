@@ -1,5 +1,5 @@
-name: BNd
-pattern: (?<=^|[\s.-])BNd\b
+name: YusukeFLA
+pattern: (?<=^|[\s.-])YusukeFLA\b
 description: 'Bad Dual Groups'
 tags:
 - Release Group

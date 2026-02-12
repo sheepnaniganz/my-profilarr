@@ -11,7 +11,7 @@ tags:
 upgradesAllowed: true
 minCustomFormatScore: 20000
 upgradeUntilScore: 888888
-minScoreIncrement: 1
+minScoreIncrement: 10
 custom_formats:
 - name: 1080p WEB-DL (h264)
   score: 620000
@@ -95,24 +95,12 @@ custom_formats:
   score: 1000
 - name: NF
   score: 1000
-- name: FLAC
-  score: 800
-- name: DTS-HD HRA
-  score: 700
-- name: Opus
-  score: 700
-- name: Dolby Digital +
-  score: 600
-- name: DTS-ES
+- name: AAC
   score: 500
-- name: Dolby Atmos
-  score: 400
 - name: Dolby Digital
   score: 400
 - name: DTS
   score: 300
-- name: AAC
-  score: 200
 - name: WEB-DL Tier 1
   score: 100
 - name: WEB-DL Tier 2
@@ -122,13 +110,25 @@ custom_formats:
 - name: WEB-DL Tier 4
   score: 40
 - name: WEB-DL Tier 5
-  score: 20
+  score: 30
 - name: Repack3
-  score: 8
+  score: 12
 - name: Repack2
-  score: 7
+  score: 11
 - name: Repack1
-  score: 6
+  score: 10
+- name: FLAC
+  score: 0
+- name: DTS-HD HRA
+  score: 0
+- name: Opus
+  score: 0
+- name: Dolby Digital +
+  score: 0
+- name: DTS-ES
+  score: 0
+- name: Dolby Atmos
+  score: 0
 - name: CRAV
   score: 0
 - name: CRIT
@@ -157,6 +157,8 @@ custom_formats:
   score: 0
 - name: STAN
   score: 0
+- name: AAC (High Count)
+  score: -999999
 - name: ASL
   score: -999999
 - name: AV1
@@ -169,9 +171,9 @@ custom_formats:
   score: -999999
 - name: Dolby Vision
   score: -999999
-- name: Full Disc
+- name: Dubs Only
   score: -999999
-- name: xh265 (Efficient)
+- name: Full Disc
   score: -999999
 - name: HDR
   score: -999999
@@ -190,6 +192,10 @@ custom_formats:
 - name: UHD Bluray (Efficient)
   score: -999999
 - name: VP9
+  score: -999999
+  name: VVC
+  score: -999999
+- name: xh265 (Efficient)
   score: -999999
 - name: xh266
   score: -999999
@@ -301,8 +307,10 @@ custom_formats_sonarr:
   score: 640000
 - name: 720p HDTV Tier 1
   score: 80000
+- name: Uncensored
+  score: 10000
 - name: Season Pack
-  score: 10
+  score: 20
 - name: AMZN
   score: -1000
 - name: Remux (Source)
@@ -313,7 +321,7 @@ qualities:
 - id: -1
   name: 1080p Compact
   description: Balanced Capable releases. Typically WEB-DL would be the overwhelming
-    majority of releases, but there are occasional streaming optimised encodes that
+    majority of releases, but there are occasional streaming optimized encodes that
     should be preferred.
   qualities:
   - id: 10
@@ -354,6 +362,6 @@ upgrade_until:
   id: -1
   name: 1080p Compact
   description: Balanced Capable releases. Typically WEB-DL would be the overwhelming
-    majority of releases, but there are occasional streaming optimised encodes that
+    majority of releases, but there are occasional streaming optimized encodes that
     should be preferred.
 language: must_original

@@ -138,7 +138,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: ZigZag (1)
+  pattern: ZigZag
 - name: ZNM
   negate: false
   required: false

@@ -1,4 +1,4 @@
-name: xh264
+name: xh265
 pattern: '[xh][ ._-]?265|\bHEVC(\b|\d)'
 description: ''
 tags:

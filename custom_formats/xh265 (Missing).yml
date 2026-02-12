@@ -19,9 +19,9 @@ conditions:
   pattern: Remux
   required: true
   type: release_title
-- name: Not x264
+- name: Not xh264
   negate: true
-  pattern: x264
+  pattern: xh264
   required: true
   type: release_title
 - name: Not xh265
@@ -29,22 +29,4 @@ conditions:
   pattern: xh265
   required: true
   type: release_title
-tests:
-- conditionResults:
-  - matches: false
-    name: Not xh265
-    negate: true
-    pattern: xh265
-    required: true
-    type: release_title
-  - matches: true
-    name: h265
-    negate: false
-    pattern: h265
-    required: true
-    type: release_title
-  expected: true
-  id: 1
-  input: Training Day 2001 BluRay 10Bit 1080p DD5 1 H265-d3g
-  lastRun: '2025-01-14T09:03:52.278761'
-  passes: true
+tests:[]

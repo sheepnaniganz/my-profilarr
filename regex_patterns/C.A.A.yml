@@ -1,6 +1,6 @@
 name: C.A.A
 pattern: (?<=^|[\s.-])C\.A\.A\b
-description: ''
+description: 'Bad Dual Groups'
 tags:
 - Release Group
 - Banned

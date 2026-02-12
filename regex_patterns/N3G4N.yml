@@ -1,6 +1,6 @@
 name: N3G4N
 pattern: (?<=^|[\s.-])N3G4N\b
-description: ''
+description: 'Bad Dual Groups'
 tags:
 - Release Group
 - Banned

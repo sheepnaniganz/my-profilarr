@@ -1,6 +1,6 @@
 name: FOXX
 pattern: (?<=^|[\s.-])FOXX\b
-description: ''
+description: 'Bad Dual Groups'
 tags:
 - Release Group
 - Banned
