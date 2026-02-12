@@ -189,7 +189,7 @@ custom_formats:
   score: -999999
 - name: HLG
   score: -999999
-- name: Not Original
+- name: Language (Not Original)
   score: -999999
 - name: Lossless Audio
   score: -999999
@@ -333,8 +333,6 @@ custom_formats_sonarr:
   score: 10000
 - name: Season Pack
   score: 20
-- name: AMZN
-  score: -1000
 - name: Remux (Source)
   score: -999999
 - name: Upscaled (Sonarr)

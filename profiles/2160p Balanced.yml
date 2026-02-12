@@ -210,7 +210,7 @@ custom_formats:
   score: -999999
 - name: Full Disc
   score: -999999
-- name: Not Original
+- name: Language (Not Original)
   score: -999999
 - name: Remux
   score: -999999
