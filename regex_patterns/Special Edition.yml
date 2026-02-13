@@ -1,5 +1,5 @@
 name: Special Edition
-pattern: (?<=\b[12]\d{3}\b).*\b(Cut|Directors|DC|Edition|Extended|Special|Uncensored|Uncut|Unrated|Version)(\b|\d)
+pattern: (?<=\b[12]\d{3}\b).*\b(Cut|Directors|DC|Edition|Extended|Special|Uncensored|Uncut|Unrated|Version|Recut)(\b|\d)
 description: 'Matches any type of non theatrical edition. '
 tags:
 - Edition
