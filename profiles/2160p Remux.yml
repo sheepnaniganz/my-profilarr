@@ -1,7 +1,6 @@
 name: 2160p Remux
-description: '2160p Remux utilizes **Video / Audio Formats** to prioritise high quality
+description: '2160p Remux utilizes **Video / Audio Formats** to prioritize high quality
   lossless copies of UHD Blurays.
-
 
   - Average Movie Sizes ~ 40 to 60gb per Movie
 
@@ -18,7 +17,7 @@ tags:
 - h265
 - x265
 upgradesAllowed: true
-minCustomFormatScore: 20000
+minCustomFormatScore: 5000
 upgradeUntilScore: 888888
 minScoreIncrement: 10
 custom_formats:

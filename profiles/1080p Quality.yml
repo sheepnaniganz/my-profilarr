@@ -10,7 +10,7 @@ tags:
 - x264
 - h264
 upgradesAllowed: true
-minCustomFormatScore: 20000
+minCustomFormatScore: 5000
 upgradeUntilScore: 888888
 minScoreIncrement: 10
 custom_formats:
@@ -241,7 +241,7 @@ custom_formats_radarr:
   score: -999999
 - name: Full Disc (Quality Match)
   score: -999999
-- name: Remux (Quality Match)
+- name: Remux (Quality Match)minCustomFormatScore: 5000
   score: -999999
 - name: Sing Along
   score: -999999
