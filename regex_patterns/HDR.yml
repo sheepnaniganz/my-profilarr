@@ -3,6 +3,6 @@ pattern: \bHDR(\b|\d)
 description: ''
 tags:
 - Enhancement
-- Colour Grade
+- Color Grading
 - HDR
 tests: []

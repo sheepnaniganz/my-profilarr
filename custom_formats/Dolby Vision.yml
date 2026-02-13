@@ -1,7 +1,8 @@
 name: Dolby Vision
 description: Matches the 'Dolby Vision' Regex Pattern
 tags:
-- Colour Grade
+- Video
+- Color Grading
 - HDR
 conditions:
 - name: Dolby Vision

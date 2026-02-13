@@ -2,7 +2,7 @@ name: 10bit
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#10bit)'
 tags:
 - Enhancement
-- Colour Grade
+- Color Grading
 - TRaSH
 conditions:
 - name: 10bit

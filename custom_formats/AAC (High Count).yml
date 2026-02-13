@@ -3,6 +3,7 @@ description: Matches 'AAC' and >2.0 Chanel Count Regex Pattern and negates any o
   conflict.
 tags:
 - Audio
+- Custom
 conditions:
 - name: AAC
   negate: false

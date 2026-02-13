@@ -2,7 +2,7 @@ name: Dubs Only
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#dubs-only)'
 tags:
 - Banned
-- Release Title
+- Release Group
 conditions:
 - name: Dubbed
   negate: false

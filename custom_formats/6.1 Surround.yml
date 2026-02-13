@@ -2,6 +2,7 @@ name: 6.1 Surround
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#61-surround)'
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: 6.1 Surround
   negate: false

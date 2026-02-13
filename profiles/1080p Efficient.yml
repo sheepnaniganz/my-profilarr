@@ -324,7 +324,7 @@ qualities:
 - id: -1
   name: 1080p Efficient
   description: Balanced Capable releases. Typically WEB-DL would be the overwhelming
-    majority of releases, but there are occasional streaming optimised encodes that
+    majority of releases, but there are occasional streaming optimized encodes that
     should be preferred.
   qualities:
   - id: 10
@@ -359,6 +359,6 @@ upgrade_until:
   id: -1
   name: 1080p Efficient
   description: Balanced Capable releases. Typically WEB-DL would be the overwhelming
-    majority of releases, but there are occasional streaming optimised encodes that
+    majority of releases, but there are occasional streaming optimized encodes that
     should be preferred.
 language: must_original

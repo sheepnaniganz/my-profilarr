@@ -2,6 +2,7 @@ name: 2.0 Stereo
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#20-stereo)'
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: Stereo
   negate: false

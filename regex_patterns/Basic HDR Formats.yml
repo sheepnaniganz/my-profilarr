@@ -4,7 +4,7 @@ pattern: (?:(?<=^(?!.*\b(HLG|PQ|SDR)(\b|\d)).*?)HDR)|\b(dv(?![ .](HLG|SDR))|dovi
 description: Matches Dolby Vision OR HDR10. Needed to better match UHD Blurays
 tags:
 - Enhancement
-- Colour Grade
+- Color Grading
 - HDR
 tests:
 - expected: true

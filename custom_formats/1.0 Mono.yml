@@ -2,6 +2,7 @@ name: 1.0 Mono
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#10-mono)'
 tags:
 - Audio
+- TRaSH
 conditions:
 - name: Mono
   negate: false

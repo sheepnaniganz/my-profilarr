@@ -2,6 +2,8 @@ name: Disney+ Enhancement
 description: ''
 tags:
 - Enhancement
+- Streaming Service
+- WEB-DL
 conditions:
 - name: Not 2160p
   negate: true

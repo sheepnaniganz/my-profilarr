@@ -1,6 +1,7 @@
 name: ASL
 description: ''
-tags: []
+tags:
+- Banned
 conditions:
 - name: ASL
   negate: false

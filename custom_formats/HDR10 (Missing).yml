@@ -2,7 +2,8 @@ name: HDR10 (Missing)
 description: Attempts to match HDR10 to groups that mislabel their releases. *This
   does not work properly in sonarr.*
 tags:
-- Colour Grade
+- Video
+- Color Grading
 - HDR
 conditions:
 - name: 2160p

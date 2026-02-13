@@ -1,6 +1,8 @@
 name: QxR WEB
 description: ''
-tags: []
+tags:
+- Release Group
+- WEB-DL
 conditions:
 - name: 1080p
   negate: false

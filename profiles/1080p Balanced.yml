@@ -2,7 +2,6 @@ name: 1080p Balanced
 description: '1080p Balanced targets consistent & immutable 1080p **WEB-DLs** using
   the Streaming Source and Audio Formats to determine the level of Transparency.
 
-
   - Average Movie Sizes ~ 4 to 8gb per Movie
 
   - Movie Quality Ranking ~ 6/10
@@ -105,7 +104,7 @@ custom_formats:
   score: 11
 - name: Repack1
   score: 10
- name: FLAC
+  name: FLAC
   score: 0
 - name: Opus
   score: 0
@@ -251,7 +250,7 @@ qualities:
 - id: -1
   name: 1080p Balanced
   description: Balanced Capable releases. Typically WEB-DL would be the overwhelming
-    majority of releases, but there are occasional streaming optimised encodes that
+    majority of releases, but there are occasional streaming optimized encodes that
     should be preferred.
   qualities:
   - id: 10
@@ -284,6 +283,6 @@ upgrade_until:
   id: -1
   name: 1080p Balanced
   description: Balanced Capable releases. Typically WEB-DL would be the overwhelming
-    majority of releases, but there are occasional streaming optimised encodes that
+    majority of releases, but there are occasional streaming optimized encodes that
     should be preferred.
 language: must_original

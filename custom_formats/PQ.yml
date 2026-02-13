@@ -1,7 +1,8 @@
 name: PQ
 description: Matches the 'PQ' Regex Pattern
 tags:
-- Colour Grade
+- Video
+- Color Grading
 - HDR
 conditions:
 - name: PQ

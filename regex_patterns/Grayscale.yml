@@ -2,7 +2,7 @@ name: Grayscale
 pattern: (?<=\b[12]\d{3}\b).*\b(Gr[ae]y([ ._-]?(scale))?)\b(?!$)
 description: ''
 tags:
-- Colour Grade
+- Color Grading
 - Enhancement
 - TRaSH
 tests: []

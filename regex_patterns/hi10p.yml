@@ -3,6 +3,6 @@ pattern: \bhi10p(\b|\d)
 description: ''
 tags:
 - Enhancement
-- Colour Grade
+- Color Grading
 - TRaSH
 tests: []

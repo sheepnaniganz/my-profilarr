@@ -2,7 +2,7 @@ name: 10bit
 pattern: 10[.-]?bit
 description: ''
 tags:
-- Color Grade
+- Color Grading
 - Enhancement
 - TRaSH
 tests: []

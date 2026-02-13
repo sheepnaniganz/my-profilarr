@@ -1,8 +1,8 @@
 name: Remaster
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#remaster)'
 tags:
-- Radarr
-- Release Title
+- Enhancement
+- TRaSH
 conditions:
 - name: Remaster
   negate: false

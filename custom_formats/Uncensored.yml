@@ -2,6 +2,7 @@ name: Uncensored
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#uncensored)'
 tags:
 - Enhancement
+- TRaSH
 conditions:
 - name: Uncensored
   negate: false

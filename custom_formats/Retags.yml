@@ -1,8 +1,9 @@
 name: Retags
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#retags)'
 tags:
-- Radarr
+- Banned
 - Release Title
+- TRaSH
 conditions:
 - name: (rartv)
   negate: false

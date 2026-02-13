@@ -4,7 +4,7 @@ description: Matches Dolby Vision when it doesn't come with regular HDR Fallback
   Bluray Remux or a Hulu WEB-DL)
 tags:
 - Enhancement
-- Colour Grade
+- Color Grading
 - HDR
 tests:
 - expected: false

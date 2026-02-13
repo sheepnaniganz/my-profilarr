@@ -1,6 +1,8 @@
 name: QxR Blurays
 description: ''
-tags: []
+tags:
+- Release Group
+- BluRay
 conditions:
 - name: 2160p
   negate: false

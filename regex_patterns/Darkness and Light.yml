@@ -3,6 +3,6 @@ pattern: (?<=\b[12]\d{3}\b).*\b(Darkness?[ ._-]?(and|&)[ ._-]?(Light))\b(?!$)
 description: ''
 tags:
 - Enhancement
-- Color Grade
+- Color Grading
 - TRaSH
 tests: []

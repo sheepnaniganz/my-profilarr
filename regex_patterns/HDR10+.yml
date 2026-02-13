@@ -4,7 +4,7 @@ description: This regex matches `HDR10` when followed by either a plus sign `+`,
   or `Plus`
 tags:
 - Enhancement
-- Colour Grade
+- Color Grading
 - HDR
 tests:
 - expected: false

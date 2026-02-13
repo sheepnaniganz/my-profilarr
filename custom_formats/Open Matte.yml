@@ -1,8 +1,8 @@
 name: Open Matte
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#open-matte)'
 tags:
-- Radarr
-- Release Title
+- Edition
+- TRaSH
 conditions:
 - name: Open Matte
   negate: false

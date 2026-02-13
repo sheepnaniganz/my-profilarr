@@ -2,7 +2,6 @@ name: Criterion Collection
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#criterion-collection)'
 tags:
 - Edition
-- Enhancement
 - TRaSH
 conditions:
 - name: Bluray

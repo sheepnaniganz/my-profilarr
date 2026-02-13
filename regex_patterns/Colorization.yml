@@ -1,9 +1,8 @@
-name: Colourisation
+name: Colorization
 pattern: \bcolou?r(i[sz]ed?|ed)?\b
-description: 'Colourisation (or colorization in American English) is the process of
-  adding colour to black-and-white, sepia, or other monochrome images. Matches variations
+description: 'Colorization (or colourisation in British English) is the process of
+  adding color to black-and-white, sepia, or other monochrome images. Matches variations
   of `color` in both American and British spellings, including:
-
 
   - **Base forms:** `color`, `colour`
 
@@ -11,9 +10,9 @@ description: 'Colourisation (or colorization in American English) is the process
 
   - **Verb forms:** `colorize`, `colourize`, `colorise`, `colourise`
 
-  - **Past participles:** `colorized`, `coloured`, `colourized`, `colourised`'
+  - **Past participles:** `colored`, `coloured`, `colorized`, `colourized`, `colorised`, `colourised`'
 tags:
-- Colour Grade
+- Color Grading
 - Enhancement
 tests:
 - expected: true

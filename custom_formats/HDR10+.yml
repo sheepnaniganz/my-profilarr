@@ -1,7 +1,8 @@
 name: HDR10+
 description: Matches the 'HDR10+' Regex Pattern
 tags:
-- Colour Grade
+- Video
+- Color Grading
 - HDR
 conditions:
 - name: HDR10+

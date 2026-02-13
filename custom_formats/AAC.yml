@@ -3,6 +3,7 @@ description: Matches 'AAC' Regex Pattern and negates any other audio types that 
   conflict.
 tags:
 - Audio
+- Codec
 conditions:
 - name: AAC
   negate: false

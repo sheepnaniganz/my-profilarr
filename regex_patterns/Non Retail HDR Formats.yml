@@ -5,7 +5,7 @@ description: 'Matches Dolby Vision OR HDR10+. Needed to match release groups who
   custom HDR layers. '
 tags:
 - Enhancement
-- Colour Grade
+- Color Grading
 - HDR
 tests:
 - expected: true

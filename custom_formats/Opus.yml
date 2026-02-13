@@ -3,6 +3,7 @@ description: Matches 'Opus' Regex Pattern and negates any other audio types that
   conflict.
 tags:
 - Audio
+- Codec
 conditions:
 - name: Opus
   negate: false

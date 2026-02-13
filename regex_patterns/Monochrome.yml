@@ -3,6 +3,6 @@ pattern: (?<=\b[12]\d{3}\b).*\b(Monochrome)\b(?!$)
 description: ''
 tags:
 - Enhancement
-- Colour Grading
+- Color Grading
 - TRaSH
 tests: []

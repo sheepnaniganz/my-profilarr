@@ -1,6 +1,7 @@
 name: AV1
 description: Matches the 'AV1' Regex Pattern
 tags:
+- Video
 - Codec
 - Bleeding Edge
 conditions:

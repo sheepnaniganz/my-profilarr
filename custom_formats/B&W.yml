@@ -1,36 +1,55 @@
-name: B&W
-description: Matches the 'B&W' and 'Colour' Regex Pattern
+name: Black and White Editions
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#black-and-white-editions)'
 tags:
 - Banned
-- Colour Grade
+- Color Grading
 - Enhancement
+- Custom
+- TRaSH
 conditions:
+- name: Blackout-B&W-Black&Chrome
+  negate: false
+  required: false
+  type: release_title
+  pattern: Blackout-B&W-Black&Chrome
+- name: Monochrome
+  negate: false
+  required: false
+  type: release_title
+  pattern: Monochrome
+- name: Noir
+  negate: false
+  required: false
+  type: release_title
+  pattern: Noir
+- name: Shush Cut
+  negate: false
+  required: false
+  type: release_title
+  pattern: Shush Cut
+- name: No-Minus Color
+  negate: false
+  required: false
+  type: release_title
+  pattern: No-Minus Color
+- name: Grayscale
+  negate: false
+  required: false
+  type: release_title
+  pattern: Grayscale
+- name: Darkness and Light
+  negate: false
+  required: false
+  type: release_title
+  pattern: Darkness and Light
 - name: B&W
   negate: false
   pattern: B&W
   required: true
   type: release_title
-- name: Not Colour
+- name: Not Color
   negate: true
-  pattern: Colourisation
+  pattern: Colorization
   required: true
   type: release_title
-tests:
-- conditionResults:
-  - matches: true
-    name: B&W
-    negate: false
-    pattern: B&W
-    required: true
-    type: release_title
-  - matches: true
-    name: Colour
-    negate: true
-    pattern: Colour
-    required: true
-    type: release_title
-  expected: false
-  id: 1
-  input: Dracula (1931) B&W (Colourized Version)
-  lastRun: '2025-02-13T13:14:54.830866'
-  passes: true
+tests: []

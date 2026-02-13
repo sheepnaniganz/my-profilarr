@@ -1,6 +1,8 @@
 name: HONE Bluray
 description: ''
-tags: []
+tags:
+- Release Group
+- Bluray
 conditions:
 - name: 1080p
   negate: false

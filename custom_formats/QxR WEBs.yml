@@ -1,6 +1,8 @@
 name: QxR WEBs
 description: ''
-tags: []
+tags:
+- Release Group
+- WEB-DL
 conditions:
 - name: 2160p
   negate: false
