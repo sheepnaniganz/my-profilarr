@@ -31,7 +31,7 @@ conditions:
 - name: Theatrical
   negate: false
   pattern: Theatrical Edition
-  required: true
+  required: false
   type: release_title
 - name: Not Extended Clip
   negate: true
