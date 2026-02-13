@@ -1,5 +1,5 @@
 name: Better Theatricals
-pattern: ^\b(terminator.?2|alien[^s].*?1979|star.wars.*?(4k|19)(77)|.*?\bempire.strikes.back|.*?\breturn.of.the.jedi|apocalypse.now|the.exorcist.*?1973|donnie.darko|amadeus|payback.*?1999|payback.straight.up.*?2006|almost.famous|mallrats|army.of.darkness)\b
+pattern: ^\b(terminator.?2|alien[^s].*?1979|star.wars.*?(4k|19)(77)|.*?\bempire.strikes.back|.*?\breturn.of.the.jedi|apocalypse.now|the.exorcist.*?1973|donnie.darko|amadeus|payback.*?1999|payback.straight.up.*?2006|almost.famous|mallrats|army.of.darkness|sin.city.*?2005)\b
 description: 'Matches movies where the `Theatrical` cut is considered the better version.
   Subjectively chosen, based on Dictionarry''s personal preferences and major opinion.
   Needed to override the default special edition preference. Matches:
